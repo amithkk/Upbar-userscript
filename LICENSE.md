@@ -1,4 +1,5 @@
-This software is released under the GNU GPL version 3, 29 July 2007.  The complete copy of the license is attached to this document.
+This software is released under the GNU GPL version 3, 29 July 2007.
+The complete copy of the license is attached to this document.
 
 ------
 SUMMARY:
