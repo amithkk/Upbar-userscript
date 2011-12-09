@@ -5,6 +5,7 @@
 // @namespace amith.dasroot.net
 // @description	  Moves the userlist to the top
 // @include       http://chat.stackexchange.com/rooms/*
+// @include       http://chat.stackoverflow.com/rooms/*
 // ==/UserScript==
 
 // This function embeds code on the actual page. 
